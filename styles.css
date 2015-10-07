@@ -1,0 +1,68 @@
+
+.menu {
+  border 5px solid #3b5998;
+  background-color: #0000ff;
+  display: inline-block;
+  text-align: center;
+  color:white;
+  height:40px;
+  line-height:0px;
+  width:24.2%;
+
+}
+
+
+.recipeList {
+  float:left;
+
+
+}
+
+.midPic img{
+  margin-top:20px;
+  height:250px;
+  align:right;
+  float:right;
+  margin-right:30px;
+
+}
+
+.recipePic img{
+    margin-top:20px;
+    height:250px;
+    align:right;
+    float:right;
+    margin-right:30px;
+}
+span {
+  color: green;
+  font-family: cursive;
+}
+
+a {
+  color: blue;
+}
+
+.menu a{
+  color: white;
+
+}
+
+a:hover{
+  color: red;
+}
+
+#header img {
+  height:200px;
+  display: block;
+  margin:auto;
+  margin-bottom:10px;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: upper-roman;
+}
